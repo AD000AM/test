@@ -13,7 +13,7 @@ export default function Contacts() {
       <div class="mb-3  ">
         <div>
   <input type="email" class="form-control my-4  con " id="exampleFormControlInput1" placeholder="Username"/>
-  <input type="email" class="form-control my-4 con  " id="exampleFormControlInput1" placeholder="Username"/>
+  <input type="email" class="form-control my-4 con  " id="exampleFormControlInput1" placeholder="Userage"/>
   <input type="email" class="form-control my-4 con  " id="exampleFormControlInput1" placeholder="Useremail"/>
   <input type="password" class="form-control my-4 con " id="exampleFormControlInput1" placeholder="Userpassword"/>
   <button className='btn btn-success mu ' type='submit' >Send message</button>

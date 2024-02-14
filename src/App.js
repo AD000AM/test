@@ -13,6 +13,7 @@ export default function App() {
       {path: "Contacts", element:<Contacts/>},
       {path: "Portfolio", element:<Portfolio/>},
       {path: "About", element:<About/>},
+      {path: "*", element:<About/>},
     ]},
   ])
   return (
